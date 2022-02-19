@@ -46,6 +46,6 @@ public class LogMessage {
     }
 
     public String getDescription() {
-        return getDescription();
+        return description;
     }
 }
